@@ -1,4 +1,4 @@
-I don't know how to code and this is for my personal use so I don't include universal architecture.
+# I don't know how to code. This is for my personal use so I don't include universal architecture.
 
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
