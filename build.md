@@ -1,8 +1,8 @@
-Music: 6.45.54  
 YouTube: 19.11.38  
-Reddit: 2024.12.0  
+Music: 6.45.54  
+Reddit: 2024.13.0  
 
-Install [Vanced Microg]https://github.com/inotia00/VancedMicroG/releases) for non-root YouTube and YT Music  
+Install [Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
