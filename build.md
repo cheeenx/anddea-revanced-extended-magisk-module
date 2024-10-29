@@ -1,4 +1,4 @@
-Music: 7.16.52  
+Music: 7.16.53  
 Reddit: 2024.17.0  
 YouTube: 19.16.39  
 
@@ -8,7 +8,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 Changelog:  
-CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: anddea/revanced-integrations-0.156.0.apk  
-Patches: anddea/revanced-patches-2.229.0.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.229.0)  
+CLI: inotia00/revanced-cli-4.6.2-all.jar  
+Integrations: anddea/revanced-integrations-0.157.0.apk  
+Patches: anddea/revanced-patches-2.230.0.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.230.0)  
